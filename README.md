@@ -1,5 +1,7 @@
 # RVC Text-to-Speech WebUI
 
+##Included in the weights folder is model trained on Uruha Rushia's voice  
+
 This is a text-to-speech Gradio webui for [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) models, using [edge-tts](https://github.com/rany2/edge-tts).
 
 [🤗 Online Demo](https://huggingface.co/spaces/litagin/rvc_okiba_TTS)
